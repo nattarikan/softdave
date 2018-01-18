@@ -4,18 +4,17 @@
   <head>      
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title> Template </title>
+    <title> profile </title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width">
   </head>    
  
-  <body>
-
-  <!-- details -->
+  <body bgcolor="#FFCC00>
+	<center>
+		# Softdave 
+	</center>
   
   </body>
 </html>
 
-
-# Softdave 
 
